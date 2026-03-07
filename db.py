@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Adam J BuildADatabase
+=======
+# Adam J CSCE 4350 - BuildADatabase
+>>>>>>> 3f138245a86f68741e55d94eea00e0608e4c87ba
 import os
 import sys
 DB_FILE = "data.db"
